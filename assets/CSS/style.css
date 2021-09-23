@@ -1,0 +1,22 @@
+#frm {
+    margin: auto;
+    padding: 20px;
+    max-width: 50%;
+    height: 500px;
+    border: 1px solid black;
+}
+div {
+    padding: 10px;
+}
+
+.champ {
+    width: 100%;
+}
+input.invalid, textarea.invalid {
+    border: 1px red solid;
+}
+.msg {
+    color: red;
+    font-size: 0.8em;
+    margin-left: 10px;
+}
